@@ -1,0 +1,36 @@
+body{
+  background-color: violet;
+
+}
+
+
+a{
+font-size: 25pt;
+}
+
+
+#head {
+  color: purple;
+  text-align: center;
+  font-size: 60pt;
+  font-family: fantasy;
+  font-weight: 200;
+}
+
+table{
+  border-style:  groove;
+  border-color: purple;
+
+ }
+
+ tr{
+   color: white;
+   background-color: lightblue;
+   font-family: sans-serif;
+   font-size: 20pt;
+
+ }
+
+a{
+  text-align: center;
+}

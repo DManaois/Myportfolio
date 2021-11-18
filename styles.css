@@ -1,0 +1,80 @@
+
+body{
+  background-color: black;
+}
+.bg{
+  width: 25%;
+  position: absolute;
+  top: 300px;
+  right: 20px;
+}
+
+
+.act{
+  width: 1800px;
+  position: absolute;
+  top: 400px;
+  right: 25px;
+}
+
+
+h5 {
+  font-family: sans-serif;
+  font-size: 35pt;
+  text-indent: 10px;
+  color: white;
+  text-align: center;
+
+
+
+}
+p {
+  font-family: sans-serif;
+  text-indent: 35pt;
+  font-size: 20pt;
+  color: white;
+  text-align: center;
+}
+
+
+
+a{
+color: skyblue;
+font-weight: bold;
+font-size: 25pt;
+font-style: normal;
+
+  }
+
+h3{s
+  font-family:  sans-serif;
+  font-size: 25pt;
+
+  color: white;
+  font-weight: bold;
+}
+
+
+li{
+  font-family: serif;
+  color: white;
+}
+
+table{
+  border-style:  groove;
+  border-color: red;
+ }
+
+th{
+  color: orange;
+  text-align: center;
+}
+
+tr{
+  color: white;
+  background-color: black;
+  border-color:yellow;
+  text-align: center;
+}
+
+/**************************************************************Contacts********************************************/

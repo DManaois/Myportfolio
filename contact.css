@@ -1,0 +1,24 @@
+  body{
+  background-color: skyblue ;
+  text-align: center;
+  font-size: 20pt;
+}
+#hed{
+  color:red;
+  font-size: 45pt;
+  text-align: center;
+}
+
+table{
+  border-style:  groove;
+  border-color: red;
+  text-align: center;
+  vertical-align:
+ }
+
+ th{
+   color: white;
+   background-color: violet;
+   font-family: sans-serif;
+   font-size: 20pt;
+ }
